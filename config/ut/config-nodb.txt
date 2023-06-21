@@ -315,7 +315,7 @@ GATEWAY_DELAY 18000
 ## Remove the # to give assistants maint access.
 #ASSISTANT_MAINT
 
-## Uncomment to restrict non-admins from using humanoid alien races
+# Uncomment to restrict non-admins from using humanoid alien races
 USEALIENWHITELIST
 
 ## Comment this to disable automated station night lighting
