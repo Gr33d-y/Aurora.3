@@ -13,7 +13,7 @@ ALERT_DELTA The ship's self-destruct mechanism has been engaged. All crew are in
 ## Add a # in front of this to disable automatic admin rights for users connecting from the host the server is running on.
 AUTO_LOCAL_ADMIN
 
-## Add a # infront of this if you want to use the SQL based admin system, the legacy system uses admins.txt. You need to set up your database to use the SQL based system.
+# Add a # infront of this if you want to use the SQL based admin system, the legacy system uses admins.txt. You need to set up your database to use the SQL based system.
 ADMIN_LEGACY_SYSTEM
 
 ## Add a # infront of this if you want to use the SQL based banning system. The legacy systems use the files in the data folder. You need to set up your database to use the SQL based system.
