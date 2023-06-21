@@ -5,4 +5,4 @@
 # Ranks can be anything defined in admin_ranks.json          ~Carn   #
 ######################################################################
 
-# Gr33dy - Head Admin/Dev
+# gr33dy - Head Admin/Dev
